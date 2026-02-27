@@ -7,7 +7,7 @@
 ## 📄 配置详情
 
 #### 📝 Clash_Sample.yaml
-- **路径**: `Clash_Sample.yaml` | **大小**: 12.5 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/iKeLee/Clash_Sample.yaml)
+- **路径**: `Clash_Sample.yaml` | **大小**: 12.5 KB | [查看源码](https://github.com/tttt2001tttt/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/iKeLee/Clash_Sample.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (22个)</summary>

@@ -4,7 +4,7 @@
 
 | 配置文件 (.conf) | 需要填写的订阅源 (Provider) | 操作 |
 | :--- | :--- | :--- |
-| **Clash_Sample.conf** | `$EN_KEY1`: 机场名称1<br>`$EN_KEY2`: 机场名称2 | [查看源码](https://raw.githubusercontent.com/HenryChiao/MIHOMO_YAMLS/main/Overwrite/THEOPENCLASH/General_Config/iKeLee/Clash_Sample.conf) |
+| **Clash_Sample.conf** | `$EN_KEY1`: 机场名称1<br>`$EN_KEY2`: 机场名称2 | [查看源码](https://raw.githubusercontent.com/tttt2001tttt/MIHOMO_YAMLS/main/Overwrite/THEOPENCLASH/General_Config/iKeLee/Clash_Sample.conf) |
 
 ---
 [🔙 返回总览](../README.md)
